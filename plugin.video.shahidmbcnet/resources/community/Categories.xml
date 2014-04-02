@@ -29,26 +29,7 @@
 		<catname>Kids</catname>
 		<imageurl>http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png</imageurl>
 	</category>
-	<category>
-		<id>islam</id>
-		<catname>Islamic</catname>
-		<imageurl>http://icons.iconarchive.com/icons/designbolts/religious-symbol/256/Islam-Crescent-icon.png</imageurl>
-	</category>
-	<category>
-		<id>cook</id>
-		<catname>Cooking</catname>
-		<imageurl>http://icons.iconarchive.com/icons/mcdo-design/book/256/Cook-Book-icon.png</imageurl>
-	</category>
-	<category>
-		<id>doc</id>
-		<catname>Documentary</catname>
-		<imageurl>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Documentary-icon.png</imageurl>
-	</category>
-	<category>
-		<id>french</id>
-		<catname>French</catname>
-		<imageurl>http://icons.iconarchive.com/icons/hopstarter/flag/256/France-icon.png</imageurl>
-	</category>
+
 	<category>
 		<id>africa</id>
 		<catname>NorthAfrica</catname>
